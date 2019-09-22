@@ -1,1 +1,1 @@
-# rsschool-cv
+(https://mikola-litvin.github.io/rsschool-cv/cv)
