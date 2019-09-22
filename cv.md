@@ -14,7 +14,7 @@ Start programming in 2015. Frontend and backend developer with technical educati
 
 ## Technical Skills
 
-**Programming languages and technologies:** HTML, CSS, JavaScript, PHP, SQL, Mysql, Responsive / Adaptive markup
+**Programming languages and technologies:** HTML, CSS, JavaScript, PHP, SQL, Mysql, Responsive/Adaptive markup
 
 **Frameworks and Libraries:** Bootstrap, JQuery, Animate.css, Node.js, Express.js, Pug, Wordpress, Joomla
 
@@ -55,7 +55,9 @@ Start programming in 2015. Frontend and backend developer with technical educati
 
 **Gomel State Technical University, Gomel, Belarus**
 
-**Specialist_ _(programmer/web-designer)**
+*Specialist (programmer/web-designer)*
+
 
 **National Open University “Intuit” (https://www.intuit.ru/)**
-**Web-development**
+
+*Web-development*
