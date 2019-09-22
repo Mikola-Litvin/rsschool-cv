@@ -27,27 +27,27 @@ Start programming in 2015. Frontend and backend developer with technical educati
 ### Projects
 
 #### Online store - 2017
-- **Project:** http://mebelipvir.by
+- **Project:** [mebelipvir.by](http://mebelipvir.by)
 - **Position:** developer, designer
 - **Environment:** HTML, CSS, JavaScript, PHP, SQL
 
 #### Website - 2017
-- **Project:** http://ideal-gomel.by
+- **Project:** [ideal-gomel.by](http://ideal-gomel.by)
 - **Position:** developer
 - **Environment:** HTML, CSS, JavaScript, PHP, SQL
 
 #### Website - 2017/2018
-- **Project:** http://global-intention.com
+- **Project:** [global-intention.com](http://global-intention.com)
 - **Position:** developer
 - **Environment:** HTML, CSS, JavaScript, PHP, SQL
 
 #### Online store - 2018 
-- **Project:** https://vanadoors.com
+- **Project:** [vanadoors.com](https://vanadoors.com)
 - **Position:** developer
 - **Environment:** HTML, CSS, JavaScript, PHP, SQL, Wordpress
 
 #### Website - 2019
-- **Project:** http://abtimber.by
+- **Project:** [abtimber.by](http://abtimber.by)
 - **Position:** developer
 - **Environment:** HTML, CSS, JavaScript
 
@@ -58,6 +58,6 @@ Start programming in 2015. Frontend and backend developer with technical educati
 *Specialist (programmer/web-designer)*
 
 
-**National Open University “Intuit” (https://www.intuit.ru/)**
+**National Open University [“Intuit”](https://www.intuit.ru/)**
 
 *Web-development*
